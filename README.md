@@ -1,4 +1,4 @@
-Lawyer Website Documentation
+Lawyer Website 
 
 over review
 
@@ -76,6 +76,4 @@ we used.        Data base for this website
 4. seek help
 
 
-
-Mix it with this and make sure it is in the form that read.me can know like # for capitalization. When u mix it make sure to make minor grammar, punctuation error. Try to make it sound human as possible
 
